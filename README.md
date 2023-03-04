@@ -1,5 +1,5 @@
 # 💫 About Me:
-Tech enthusiast who loves learning. Currently woring on Full-Stack-Development.
+I build things for the web.
 
 
 ## 🌐 Socials:
