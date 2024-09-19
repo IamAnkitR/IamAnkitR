@@ -1,5 +1,5 @@
 # 💫 About Me:
-I build things for the web.
+## Innovation is just a fingertip away
 
 
 ## 🌐 Socials:
